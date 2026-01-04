@@ -33,7 +33,7 @@ Main steps:
 Based on the final comparison in the presentation, the **tuned Bagging Regressor** achieved the best balance of training/testing performance with the **lowest RMSE (~169.23)** and **highest R² (~0.92)**. :contentReference[oaicite:12]{index=12}
 
 ## Project Files
-- `Methodology.pdf` — full presentation (dataset, workflow, model tuning, results) :contentReference[oaicite:13]{index=13}
+- `Seoul_Bike_Demand_Prediction_Presentation.pdf` — full presentation (dataset, workflow, model tuning, results) :contentReference[oaicite:13]{index=13}
 - Notebook / scripts — data processing, feature selection, model training, evaluation
 
 ## Tech Stack
