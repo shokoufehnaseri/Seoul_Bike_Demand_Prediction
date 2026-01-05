@@ -41,6 +41,34 @@ Python: pandas, numpy, seaborn, matplotlib, scikit-learn, boruta, tensorflow/ker
 (Optionally: LightGBM, XGBoost for additional benchmarking)
 
 ## How to Run
-1. Install dependencies
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/shokoufehnaseri/Seoul_Bike_Demand_Prediction.git
+cd Seoul_Bike_Demand_Prediction
+
+```
+2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+3. Run the Notebook
+
+Open and execute:
+
+```bash
+Seoul_Bike_Demand_Prediction.ipynb
+```
+
+All preprocessing, modeling, and evaluation steps are included in the notebook.
+
+## Project Type
+
+Applied Machine Learning / Time Series Regression / Urban Analytics
+
+## Author
+
+Shokoufeh Naseri
+M.Sc. Data Science
